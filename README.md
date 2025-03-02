@@ -2,7 +2,7 @@
 This Power BI project is part of the **Data Visualization module** in the **Big Data, Machine Learning &amp; AI bootcamp**. It analyzes marketing campaign performance. #PowerBI
 
 ## 📊 Dashboard
-You can access the interactive dashboard in Power BI at the following link 👉🏼 [📊 Dashboard]()
+You can access the interactive dashboard in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmRlYzI1ZGEtNWZiOS00ZGU1LWE0OWUtZTg4OTZjMmEzMTg5IiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
 
 ## 🗃️ Download report
 Download the Power BI report file [🗃️ Report Power BI](https://github.com/IrisMejuto/Marketing-Campaign-Analysis/blob/main/Report/Marketing%20Campaign.pbix)
