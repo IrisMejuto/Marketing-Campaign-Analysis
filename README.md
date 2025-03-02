@@ -5,7 +5,7 @@ This Power BI project is part of the **Data Visualization module** in the **Big 
 You can access the interactive dashboard in Power BI at the following link 👉🏼 [📊 Dashboard]()
 
 ## 🗃️ Download report
-Download the Power BI report file [🗃️ Report Power BI]()
+Download the Power BI report file [🗃️ Report Power BI](https://github.com/IrisMejuto/Marketing-Campaign-Analysis/blob/main/Report/Marketing%20Campaign.pbix)
 
 ## 🪟 Overview
 This project explores customer purchasing patterns and marketing campaign performance as part of my **bootcamp training** in data visualization using Power BI.
