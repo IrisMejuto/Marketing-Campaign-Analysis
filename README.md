@@ -13,8 +13,8 @@ This project explores customer purchasing patterns and marketing campaign perfor
 ## 🗃️ Dataset
 The dataset used for this project was sourced from Kaggle. You can download it from the followings link:
 
-[Download file]()
-[Kaggle Link]()
+* [Download file]()
+* [Kaggle Link](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data)
 
 
 ## ❓ Key questions the project answers
